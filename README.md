@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashkay
+- 👋 Hi, I’m @Artemis2200
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
